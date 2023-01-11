@@ -1,0 +1,14 @@
+C:\Users\SONY\Desktop\Lesson\Praktika\taskLesson\taskLesson\bin\Debug\netcoreapp3.1\taskLesson.exe
+C:\Users\SONY\Desktop\Lesson\Praktika\taskLesson\taskLesson\bin\Debug\netcoreapp3.1\taskLesson.deps.json
+C:\Users\SONY\Desktop\Lesson\Praktika\taskLesson\taskLesson\bin\Debug\netcoreapp3.1\taskLesson.runtimeconfig.json
+C:\Users\SONY\Desktop\Lesson\Praktika\taskLesson\taskLesson\bin\Debug\netcoreapp3.1\taskLesson.runtimeconfig.dev.json
+C:\Users\SONY\Desktop\Lesson\Praktika\taskLesson\taskLesson\bin\Debug\netcoreapp3.1\taskLesson.dll
+C:\Users\SONY\Desktop\Lesson\Praktika\taskLesson\taskLesson\bin\Debug\netcoreapp3.1\taskLesson.pdb
+C:\Users\SONY\Desktop\Lesson\Praktika\taskLesson\taskLesson\obj\Debug\netcoreapp3.1\taskLesson.csproj.AssemblyReference.cache
+C:\Users\SONY\Desktop\Lesson\Praktika\taskLesson\taskLesson\obj\Debug\netcoreapp3.1\taskLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY\Desktop\Lesson\Praktika\taskLesson\taskLesson\obj\Debug\netcoreapp3.1\taskLesson.AssemblyInfoInputs.cache
+C:\Users\SONY\Desktop\Lesson\Praktika\taskLesson\taskLesson\obj\Debug\netcoreapp3.1\taskLesson.AssemblyInfo.cs
+C:\Users\SONY\Desktop\Lesson\Praktika\taskLesson\taskLesson\obj\Debug\netcoreapp3.1\taskLesson.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\Lesson\Praktika\taskLesson\taskLesson\obj\Debug\netcoreapp3.1\taskLesson.dll
+C:\Users\SONY\Desktop\Lesson\Praktika\taskLesson\taskLesson\obj\Debug\netcoreapp3.1\taskLesson.pdb
+C:\Users\SONY\Desktop\Lesson\Praktika\taskLesson\taskLesson\obj\Debug\netcoreapp3.1\taskLesson.genruntimeconfig.cache
